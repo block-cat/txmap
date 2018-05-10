@@ -1,1 +1,1 @@
-# gps helper tools using tecent map.
+# gps helper tools using tencent map.

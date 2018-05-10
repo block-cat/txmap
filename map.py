@@ -45,5 +45,4 @@ class TxMap(object):
 
 if __name__ == "__main__":
     txmap = TxMap()
-    # print(txmap.get_gps_via_address("北京市海淀区新中关大厦"))
     print(txmap.get_distance_by_gps((39.9219,116.44355),(39.922131184440,116.4488867887)))
